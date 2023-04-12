@@ -1,0 +1,2 @@
+Claudio foi convocado para realizar o armazenamento de dados dos usuarios de sua empresa de serviço de streaming.
+O dados são:Nome,Cpf,plano assinado e o email.
